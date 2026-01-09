@@ -35,7 +35,7 @@ Help us reach the goal by starring this repository!
 
 **Current Progress:**
 
-![Stars](https://img.shields.io/github.com/X0U8/Gixplay-?style=for-the-badge&color=yellow&label=Stars)
+![Stars](https://img.shields.io/github/X0U8/Gixplay-?style=for-the-badge&color=yellow&label=Stars)
 
 </div>
 
