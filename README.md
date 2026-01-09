@@ -35,12 +35,12 @@ Help us reach the goal by starring this repository!
 
 **Current Progress:**
 
-![Stars](https://img.shields.io/github/X0U8/Gixplay-?style=for-the-badge&color=yellow&label=Stars)
+![Stars](https://img.shields.io/github/stars/X0U8/Gixplay?style=for-the-badge&color=yellow)
 
 </div>
 
 ## Key Features
-
+njn
 
 | Category | Feature Detail |
 | :--- | :--- |
