@@ -25,7 +25,22 @@ Your playlists, listening history, analytics, and identity stay on your device.
 
 <hr style="border: 1px solid #38B2AC;" />
 
+<div align="center">
+
+### ⭐ Source code will be revealed at **100 stars**! ⭐
+
+Help us reach the goal by starring this repository!
+
+[![Star this repo](https://img.shields.io/badge/⭐_Star_This_Repo-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/X0U8/Gixplay-)
+
+**Current Progress:**
+
+![Stars](https://img.shields.io/github.com/X0U8/Gixplay-?style=for-the-badge&color=yellow&label=Stars)
+
+</div>
+
 ## Key Features
+
 
 | Category | Feature Detail |
 | :--- | :--- |
