@@ -124,7 +124,7 @@ Gixplay is intended for **personal and educational use**. It does not host media
 * Private distribution
 * Still Not open source
 
- ## ☕ Support
+ ## Support
 
 If you find this project helpful, consider supporting me:
 
