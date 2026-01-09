@@ -122,7 +122,14 @@ Gixplay is intended for **personal and educational use**. It does not host media
 ## Project Status
 * Actively developed
 * Private distribution
-* Not open source
+* Still Not open source
+
+ ## ☕ Support
+
+If you find this project helpful, consider supporting me:
+
+[![Buy Me A Chai](https://buymeachai.ezee.li/assets/images/buymeachai-button.png)](https://buymeachai.ezee.li/x0u8)
+
 
 <div align="center">
   <p>© Gixplay — Personal music, shared moments, full control.</p>
