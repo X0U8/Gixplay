@@ -27,7 +27,7 @@ Your playlists, listening history, analytics, and identity stay on your device.
 
 <div align="center">
 
-### ⭐ Source code will be revealed at **100 stars**! ⭐
+### Source code will be revealed at **300 stars**
 
 Help us reach the goal by starring this repository!
 
