@@ -67,52 +67,70 @@ Help us reach the goal by starring this repository!
 <table>
   <tr>
     <td width="35%" align="center">
-      <img src="https://via.placeholder.com/300x200/0b0b0b/38B2AC?text=Preview+1" width="100%">
+      <img src="https://ik.imagekit.io/sbsjhivv8/IMG-20260111-WA0004.jpg" width="100%">
     </td>
     <td>
-      <strong>Instant Music Search</strong>
+      <strong style="color:#9CA3AF">How to Use Stable Search Page</strong>
       <ul>
-        <li>Search using song name or artist</li>
-        <li>Supports stable and unstable modes</li>
-        <li>Fast results with minimal UI</li>
+  <li>The stable page uses the official YouTube Search API for searching songs and videos</li>
+  <li>YouTube charges around 100 API units for each search request, which is why this page only allows one search per hour</li>
+  <li>This limit helps control API usage and prevents exceeding the daily quota</li>
+  <li>For additional searches, users can switch to a second search server that performs YouTube searching using a Python backend</li>
+  <li>On the top right corner of the page, there is a button called “Switch Search Server”</li>
+  <li>Clicking this button allows the user to move to the different search server powered by the Python-based backend</li>
+  <li>Below the switch button, there is an option for direct search using a YouTube URL</li>
+  <li>To use direct search, the user can go to YouTube, search for the desired video, click the share button, copy the link, and paste it into the input field</li>
+  <li>After pasting the link, the app fetches the video details and allows the user to add the video to a playlist</li>
+  <li>This direct search process is demonstrated in the video shown above</li>
+  <li>Below the direct URL search option, there is a button to search using the official YouTube API</li>
+  <li>This official API-based search is restricted to only once per hour due to API cost and quota limitations</li>
       </ul>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="https://via.placeholder.com/300x200/0b0b0b/38B2AC?text=Preview+2" width="100%">
+      <img src="https://ik.imagekit.io/sbsjhivv8/IMG-20260111-WA0002.jpg" width="100%">
     </td>
     <td>
-      <strong>Playlist Creation</strong>
+      <strong>Showing Server Offline In Second Search Server</strong>
       <ul>
-        <li>Create unlimited playlists</li>
-        <li>Rename and delete anytime</li>
-        <li>Stored locally on device</li>
-      </ul>
+  <li>This page allows users to search directly using the song name or artist name</li>
+  <li>A Python backend server is running in the background to perform these searches</li>
+  <li>This search system is completely free to use for users</li>
+  <li>Since web servers are costly to maintain, the backend server may sometimes go offline automatically</li>
+  <li><strong>If the server shows offline, still try searching and wait for 30 to 40 seconds maximum — the server will automatically start again and you will be able to search normally</strong></li>
+  <li>This temporary auto-shutdown behavior helps reduce server costs</li>
+  <li>If the server is still not online after one minute, try reloading or reopening the app and then check again</li>
+  <li>If it still shows offline, it likely means the server is temporarily closed due to high traffic</li>
+  <li>In that case, users can switch to the stable search page and continue searching using the official YouTube search system</li>
+</ul>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="https://via.placeholder.com/300x200/0b0b0b/38B2AC?text=Preview+3" width="100%">
+      <img src="https://ik.imagekit.io/sbsjhivv8/IMG-20260111-WA0003.jpg" width="100%">
     </td>
     <td>
-      <strong>Add Songs to Playlist</strong>
+      <strong>How to Use Second Search Server</strong>
       <ul>
-        <li>One tap add button</li>
-        <li>Select existing playlist</li>
-        <li>Create new playlist instantly</li>
-      </ul>
+  <li>To use the second search server, first ensure the server status is online</li>
+  <li>Enter your search keyword directly and click the search button</li>
+  <li>To protect the system from bots and automated abuse, a small math question will appear before the search is processed</li>
+  <li>This verification step helps reduce misuse of the free backend service</li>
+  <li>After verification, users can search normally and add music directly to playlists, just like on the stable search page</li>
+  <li>Below the search section, there is a button labeled <strong>Switch to Stable</strong> to return to the main search page at any time</li>
+        </ul>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="https://via.placeholder.com/300x200/0b0b0b/38B2AC?text=Preview+4" width="100%">
+      <img src="https://ik.imagekit.io/sbsjhivv8/IMG-20260111-WA0005.jpg" width="100%">
     </td>
     <td>
-      <strong>Room System</strong>
+      <strong>How to Use Playlist</strong>
       <ul>
         <li>Create or join rooms</li>
         <li>Short room codes</li>
