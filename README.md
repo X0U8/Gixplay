@@ -36,7 +36,7 @@ Your playlists, listening history, analytics, and identity stay on your device.
 <td align="center">
 
 <b>Search Using URL & Create Playlists</b><br><br>
-<img src="https://ik.imagekit.io/sbsjhivv8/How%20to%20search.gif" width="260" />
+<img src="https://ik.imagekit.io/sbsjhivv8/VN20260111_105716-ezgif.com-video-to-gif-converter.gif" width="260" />
 
 </td>
 </tr>
@@ -60,9 +60,157 @@ Help us reach the goal by starring this repository!
 ![Stars](https://img.shields.io/github/stars/X0U8/Gixplay-?style=for-the-badge&color=yellow)
 
 </div>
+<hr style="border: 1px solid #38B2AC;" />
 
-## Key Features
-njn
+### How To Use All Features 
+<div align="center">
+<table>
+  <tr>
+    <td width="35%" align="center">
+      <img src="https://via.placeholder.com/300x200/0b0b0b/38B2AC?text=Preview+1" width="100%">
+    </td>
+    <td>
+      <strong>Instant Music Search</strong>
+      <ul>
+        <li>Search using song name or artist</li>
+        <li>Supports stable and unstable modes</li>
+        <li>Fast results with minimal UI</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://via.placeholder.com/300x200/0b0b0b/38B2AC?text=Preview+2" width="100%">
+    </td>
+    <td>
+      <strong>Playlist Creation</strong>
+      <ul>
+        <li>Create unlimited playlists</li>
+        <li>Rename and delete anytime</li>
+        <li>Stored locally on device</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://via.placeholder.com/300x200/0b0b0b/38B2AC?text=Preview+3" width="100%">
+    </td>
+    <td>
+      <strong>Add Songs to Playlist</strong>
+      <ul>
+        <li>One tap add button</li>
+        <li>Select existing playlist</li>
+        <li>Create new playlist instantly</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://via.placeholder.com/300x200/0b0b0b/38B2AC?text=Preview+4" width="100%">
+    </td>
+    <td>
+      <strong>Room System</strong>
+      <ul>
+        <li>Create or join rooms</li>
+        <li>Short room codes</li>
+        <li>No login required</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://via.placeholder.com/300x200/0b0b0b/38B2AC?text=Preview+5" width="100%">
+    </td>
+    <td>
+      <strong>Shared Queue</strong>
+      <ul>
+        <li>Everyone can add songs</li>
+        <li>Auto play next track</li>
+        <li>Real-time sync</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://via.placeholder.com/300x200/0b0b0b/38B2AC?text=Preview+6" width="100%">
+    </td>
+    <td>
+      <strong>Playback Controls</strong>
+      <ul>
+        <li>Play, pause, seek sync</li>
+        <li>Background playback</li>
+        <li>Mobile optimized controls</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://via.placeholder.com/300x200/0b0b0b/38B2AC?text=Preview+7" width="100%">
+    </td>
+    <td>
+      <strong>Listening Analytics</strong>
+      <ul>
+        <li>Daily and weekly stats</li>
+        <li>Streak tracking</li>
+        <li>Heatmap view</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://via.placeholder.com/300x200/0b0b0b/38B2AC?text=Preview+8" width="100%">
+    </td>
+    <td>
+      <strong>Data Export</strong>
+      <ul>
+        <li>One file backup</li>
+        <li>Includes playlists and history</li>
+        <li>No cloud dependency</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://via.placeholder.com/300x200/0b0b0b/38B2AC?text=Preview+9" width="100%">
+    </td>
+    <td>
+      <strong>Data Import</strong>
+      <ul>
+        <li>Restore full library</li>
+        <li>Fast local processing</li>
+        <li>Offline supported</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://via.placeholder.com/300x200/0b0b0b/38B2AC?text=Preview+10" width="100%">
+    </td>
+    <td>
+      <strong>Privacy First Design</strong>
+      <ul>
+        <li>No accounts</li>
+        <li>No tracking</li>
+        <li>No remote storage</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<hr style="border: 1px solid #38B2AC;" />
+
+</div>
+
+### Key Features
 
 | Category | Feature Detail |
 | :--- | :--- |
