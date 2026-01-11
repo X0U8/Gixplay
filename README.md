@@ -24,14 +24,24 @@ It allows users to search, play, and organize music sourced from YouTube while k
 Your playlists, listening history, analytics, and identity stay on your device.
 
 <div align="center">
-  <h3> Install Gixplay in Seconds (TWA / PWA)</h3>
-  <img 
-    src="https://ik.imagekit.io/sbsjhivv8/Download.gif" 
-    alt="How to install Gixplay" 
-    width="300"
-    style="border-radius: 12px; border: 1px solid #38B2AC;"
-  />
-  <p><sub>Works like a native app — no Play Store needed.</sub></p>
+
+<table>
+<tr>
+<td align="center">
+
+<b>Install Gixplay (TWA / PWA)</b><br><br>
+<img src="https://ik.imagekit.io/sbsjhivv8/Download.gif" width="260" />
+
+</td>
+<td align="center">
+
+<b>Search Using URL & Create Playlists</b><br><br>
+<img src="https://ik.imagekit.io/sbsjhivv8/How%20to%20search.gif" width="260" />
+
+</td>
+</tr>
+</table>
+
 </div>
 
 
