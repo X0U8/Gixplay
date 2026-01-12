@@ -202,12 +202,28 @@ Help us reach the goal by starring this repository!
       <img src="https://via.placeholder.com/300x200/0b0b0b/38B2AC?text=Preview+5" width="100%">
     </td>
     <td>
-      <strong>Shared Queue</strong>
+      <strong>How to Share Playlist</strong>
       <ul>
-        <li>Everyone can add songs</li>
-        <li>Auto play next track</li>
-        <li>Real-time sync</li>
-      </ul>
+  <li>
+    To share a playlist, open the playlist page and tap the <b>Share</b> button. A JSON code of the playlist will be copied to your clipboard, which you can then share anywhere you like (chat, notes, message, etc.).
+  </li>
+
+  <li>
+    On the receiving side, go to the Playlists page and tap the <b>+</b> button to create a new playlist.
+  </li>
+
+  <li>
+    You will see two fields: one for the playlist name and another for pasting the playlist JSON code.
+  </li>
+
+  <li>
+    Pasting the JSON is <b>optional</b>. If you only enter a name and create the playlist, it will be created as an empty playlist without any songs.
+  </li>
+
+  <li>
+    If you paste the shared JSON code and then press create, the playlist will be generated instantly and all songs will be added automatically.
+  </li>
+</ul>
     </td>
   </tr>
 
@@ -216,12 +232,32 @@ Help us reach the goal by starring this repository!
       <img src="https://via.placeholder.com/300x200/0b0b0b/38B2AC?text=Preview+6" width="100%">
     </td>
     <td>
-      <strong>Playback Controls</strong>
+      <strong>How to Creat or Join a Room For Listening Together</strong>
       <ul>
-        <li>Play, pause, seek sync</li>
-        <li>Background playback</li>
-        <li>Mobile optimized controls</li>
-      </ul>
+  <li>
+    To listen to music together, go to the <b>Room</b> page. You will find the room button at the top of the Playlists page, right beside the <b>+</b> icon (which is used to create a new playlist).
+  </li>
+
+  <li>
+    On the Room page, you will see two options: one to <b>create a new room</b> and another to <b>enter a room code</b> to join an existing room.
+  </li>
+
+  <li>
+    Below these options, there is a live activity log box. Since rooms are connected to a server, this log shows what is happening in real time.
+  </li>
+
+  <li>
+    Although the server is very reliable, smooth, and almost never fails, in case creating or joining a room does fail for any reason, the exact error or status will appear in the log box so you can see what went wrong.
+  </li>
+
+  <li>
+    You can simply retry again if it fails, and it will usually work immediately.
+  </li>
+
+  <li>
+    Once a room is successfully created, the room code will be displayed at the top of the room player page so you can easily share it with friends.
+  </li>
+</ul>
     </td>
   </tr>
 
@@ -230,12 +266,42 @@ Help us reach the goal by starring this repository!
       <img src="https://via.placeholder.com/300x200/0b0b0b/38B2AC?text=Preview+7" width="100%">
     </td>
     <td>
-      <strong>Listening Analytics</strong>
+      <strong>What Are the Features Present on Room</strong>
       <ul>
-        <li>Daily and weekly stats</li>
-        <li>Streak tracking</li>
-        <li>Heatmap view</li>
-      </ul>
+  <li>
+    <b>Room Code:</b> At the top of the room page, you will always find the unique room code for that room, which you can share with others to join.
+  </li>
+
+  <li>
+    <b>User Identity:</b> When opening the room feature for the first time on a device, the user is asked to enter a name. This name is saved locally on the device and used inside the room.
+    <br />
+    <b>Note:</b> Once the name is set, it cannot be changed later from the app.
+  </li>
+
+  <li>
+    <b>Inbuilt Chat System:</b> There is a built-in chat system where users in the room can talk to each other. This helps everyone communicate without switching to any other chatting app.
+  </li>
+
+  <li>
+    <b>Live Activity Logs:</b> Below the chat section, there is a live log area where users can see real-time actions such as who played a song, paused it, resumed it, or jumped to a different timestamp.
+  </li>
+
+  <li>
+    <b>Play Music / Video Together:</b> Users can play music or videos together. Just copy a YouTube URL and paste it into the room — the video will start playing instantly for everyone in the room.
+  </li>
+
+  <li>
+    <b>Queue Songs:</b> While a song is already playing, users can paste another YouTube URL to add it to the queue. The queued video will appear on the page for everyone, and the action will also be shown in the live logs.
+  </li>
+
+  <li>
+    <b>No Member or Playback Limits:</b> There is no limit on how many people can join a room and no limit on how many videos can be played or queued — feel free to enjoy without restrictions.
+  </li>
+
+  <li>
+    <b>Room Cleanup:</b> When everyone is done, please delete the room using the delete button on the top-right corner of the room screen. This helps keep things clean and avoids unused rooms staying active.
+  </li>
+</ul>
     </td>
   </tr>
 
