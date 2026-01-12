@@ -229,7 +229,7 @@ Help us reach the goal by starring this repository!
 
   <tr>
     <td align="center">
-      <img src="https://via.placeholder.com/300x200/0b0b0b/38B2AC?text=Preview+6" width="100%">
+      <img src="https://ik.imagekit.io/sbsjhivv8/IMG-20260112-WA0004.jpg?updatedAt=1768210654750" width="100%">
     </td>
     <td>
       <strong>How to Creat or Join a Room For Listening Together</strong>
@@ -263,7 +263,7 @@ Help us reach the goal by starring this repository!
 
   <tr>
     <td align="center">
-      <img src="https://via.placeholder.com/300x200/0b0b0b/38B2AC?text=Preview+7" width="100%">
+      <img src="https://ik.imagekit.io/sbsjhivv8/IMG-20260112-WA0005.jpg?updatedAt=1768210806868" width="100%">
     </td>
     <td>
       <strong>What Are the Features Present on Room</strong>
@@ -307,7 +307,7 @@ Help us reach the goal by starring this repository!
 
   <tr>
     <td align="center">
-      <img src="https://via.placeholder.com/300x200/0b0b0b/38B2AC?text=Preview+8" width="100%">
+      <img src="https://ik.imagekit.io/sbsjhivv8/IMG-20260112-WA0008.jpg?updatedAt=1768212448601" width="100%">
     </td>
     <td>
       <strong>What is Analytics</strong>
@@ -352,7 +352,7 @@ Help us reach the goal by starring this repository!
 
   <tr>
     <td align="center">
-      <img src="https://via.placeholder.com/300x200/0b0b0b/38B2AC?text=Preview+9" width="100%">
+      <img src="https://ik.imagekit.io/sbsjhivv8/IMG-20260112-WA0009.jpg?updatedAt=1768212448659" width="100%">
     </td>
     <td>
       <strong>How to Export & Import Data Of Analytics</strong>
@@ -386,7 +386,7 @@ Help us reach the goal by starring this repository!
 
   <tr>
     <td align="center">
-      <img src="https://via.placeholder.com/300x200/0b0b0b/38B2AC?text=Preview+10" width="100%">
+      <img src="https://ik.imagekit.io/sbsjhivv8/IMG-20260112-WA0006.jpg?updatedAt=1768212448706" width="100%">
     </td>
     <td>
       <strong>Why Gixplay is Different</strong>
