@@ -28,7 +28,7 @@ Your playlists, listening history, analytics, and identity stay on your device.
 
 <div align="center">
 
-### ⬇️ Installation Options
+###  Installation Options
 
 </div>
 
@@ -170,10 +170,30 @@ Help us reach the goal by starring this repository!
     <td>
       <strong>How to Use Playlist</strong>
       <ul>
-        <li>Create or join rooms</li>
-        <li>Short room codes</li>
-        <li>No login required</li>
-      </ul>
+  <li>
+    The Playlist page is simple, clean, and very easy to use. After searching for songs, you will see a <b>+ icon</b> beside each track that allows you to add it directly to a playlist with one tap.
+  </li>
+
+  <li>
+    You can also add songs while music is already playing by clicking the <b>+ icon</b> from the player screen and saving the current track instantly.
+  </li>
+
+  <li>
+    All playlists are stored <b>completely locally on your device</b>. Nothing is uploaded to any server, so your music data always stays private.
+  </li>
+
+  <li>
+    Playlists can be shared easily. When you press the share button, the required playlist data is converted into JSON and copied to your clipboard and share it anywhere you like.
+  </li>
+
+  <li>
+    <b>We strongly suggest using playlists</b> — they help users find and play music much faster, and also help reduce search costs, keeping the app smooth and efficient for everyone.
+  </li>
+
+  <li>
+    Just like other music apps, playlists support normal play mode (songs play one by one), shuffle mode (random order), and repeat options where you can loop a single song or loop the entire playlist forever.
+  </li>
+</ul>
     </td>
   </tr>
 
