@@ -205,7 +205,7 @@ Help us reach the goal by starring this repository!
       <strong>How to Share Playlist</strong>
       <ul>
   <li>
-    To share a playlist, open the playlist page and tap the <b>Share</b> button. A JSON code of the playlist will be copied to your clipboard, which you can then share anywhere you like (chat, notes, message, etc.).
+    To share a playlist, open the playlist page and tap the <b>Share</b> button. A JSON code or txt file of the playlist will be copied or downloaded, which you can then share anywhere you like (chat, notes, message, etc.).
   </li>
 
   <li>
@@ -213,15 +213,15 @@ Help us reach the goal by starring this repository!
   </li>
 
   <li>
-    You will see two fields: one for the playlist name and another for pasting the playlist JSON code.
+    You will see two fields: one for the playlist name and another for pasting the playlist JSON code and importing the txt file.
   </li>
 
   <li>
-    Pasting the JSON is <b>optional</b>. If you only enter a name and create the playlist, it will be created as an empty playlist without any songs.
+    Pasting the JSON or Putting the txt file is <b>optional</b>. If you only enter a name and create the playlist, it will be created as an empty playlist without any songs.
   </li>
 
   <li>
-    If you paste the shared JSON code and then press create, the playlist will be generated instantly and all songs will be added automatically.
+    If you paste the shared txt code or put the txt file and then press create, the playlist will be generated instantly and all songs will be added automatically.
   </li>
 </ul>
     </td>
@@ -359,11 +359,11 @@ Help us reach the goal by starring this repository!
       <ul>
   <li>
     <b>Import & Export Analytics Data:</b> Analytics data can be shared or backed up in the same way as playlists.
-    To export, simply click the <b>Export</b> button and the app will copy an <b>encrypted data string</b> to your clipboard.
+    To export, simply click the <b>Export</b> button and the app will copy or show to download a txt file that contains an <b>encrypted data string</b>.
   </li>
 
   <li>
-    To import data, click the <b>Import</b> button. A modal will open where you can paste the encrypted text and confirm.
+    To import data, click the <b>Import</b> button. A modal will open where you can paste the encrypted text or put the txt file there and confirm.
     <br />
     <b>Important:</b> importing will <b>override your existing analytics data</b>, so make sure to export your current data first if you want a backup.
   </li>
