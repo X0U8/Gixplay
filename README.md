@@ -310,12 +310,43 @@ Help us reach the goal by starring this repository!
       <img src="https://via.placeholder.com/300x200/0b0b0b/38B2AC?text=Preview+8" width="100%">
     </td>
     <td>
-      <strong>Data Export</strong>
+      <strong>What is Analytics</strong>
       <ul>
-        <li>One file backup</li>
-        <li>Includes playlists and history</li>
-        <li>No cloud dependency</li>
-      </ul>
+  <li>
+    <b>Overview at the Top:</b> The analytics page starts with three important stats:
+    <br />• <b>Total Plays</b> – counts how many times you played audio. Each play adds +1, but there is a 30-second cooldown. If you replay within 30 seconds, it will not be counted. This helps keep the data accurate and avoids fake or accidental repeats.
+    <br />• <b>Total Active Days</b> – shows how many different days you have used the app to listen to music.
+    <br />• <b>Joining Date</b> – the date when you first started using the app.
+  </li>
+
+  <li>
+    <b>Listening Habit Graph:</b> Below the stats, there is a detailed line graph showing <b>Total Plays vs Time</b>. This helps visualize your listening habit clearly.
+    Users can switch between <b>daily, monthly, or yearly</b> views to understand their activity in different time ranges.
+  </li>
+
+  <li>
+    <b>Yearly Heatmap:</b> Under the graph, there is a full yearly heatmap that shows how active you were on each day of the year.
+    Users can also switch between different years to view past listening activity patterns.
+  </li>
+
+  <li>
+    <b>Top Tracks & Artists:</b> Next, the app shows your <b>Top 10 tracks</b> and <b>Top 10 artists</b>.
+    <br />
+    Artists are detected using the YouTube channel name (since most songs are uploaded by official channels), and track names come from the YouTube video titles.
+  </li>
+
+  <li>
+    <b>Load All Option:</b> If you have listened to more than 10 tracks or artists, a <b>"Load All"</b> button will appear.
+    Clicking it lets you view the complete list of all tracks or artists you have listened to.
+    Beside each track or artist name, the app shows <b>how many times</b> you played it.
+  </li>
+
+  <li>
+    <b>Data Management:</b> At the bottom of the analytics page, there is a data management section where users can <b>export</b> or <b>import</b> their analytics data.
+    This allows full control over your listening history and statistics.
+    More details about how importing and exporting works are explained in the section below.
+  </li>
+</ul>
     </td>
   </tr>
 
@@ -324,12 +355,32 @@ Help us reach the goal by starring this repository!
       <img src="https://via.placeholder.com/300x200/0b0b0b/38B2AC?text=Preview+9" width="100%">
     </td>
     <td>
-      <strong>Data Import</strong>
+      <strong>How to Export & Import Data Of Analytics</strong>
       <ul>
-        <li>Restore full library</li>
-        <li>Fast local processing</li>
-        <li>Offline supported</li>
-      </ul>
+  <li>
+    <b>Import & Export Analytics Data:</b> Analytics data can be shared or backed up in the same way as playlists.
+    To export, simply click the <b>Export</b> button and the app will copy an <b>encrypted data string</b> to your clipboard.
+  </li>
+
+  <li>
+    To import data, click the <b>Import</b> button. A modal will open where you can paste the encrypted text and confirm.
+    <br />
+    <b>Important:</b> importing will <b>override your existing analytics data</b>, so make sure to export your current data first if you want a backup.
+  </li>
+
+  <li>
+    <b>Secure by Design:</b> This app uses its own <b>encryption system</b> to process analytics data, so users cannot easily modify or fake the data manually.
+  </li>
+
+  <li>
+    The exported file contains <b>everything</b> related to analytics:
+    <br />• All tracks
+    <br />• All artists
+    <br />• Full yearly heatmaps
+    <br />• Total plays, active days, joining date
+    <br />• And all other statistics shown on the analytics page
+  </li>
+</ul>
     </td>
   </tr>
 
@@ -338,12 +389,77 @@ Help us reach the goal by starring this repository!
       <img src="https://via.placeholder.com/300x200/0b0b0b/38B2AC?text=Preview+10" width="100%">
     </td>
     <td>
-      <strong>Privacy First Design</strong>
-      <ul>
-        <li>No accounts</li>
-        <li>No tracking</li>
-        <li>No remote storage</li>
-      </ul>
+      <strong>Why Gixplay is Different</strong>
+
+<ul>
+  <li>
+    <b>True Local-First Design:</b> Unlike most music apps that depend on accounts, cloud sync, and remote servers,
+    Gixplay stores <b>everything locally on your device</b>. Your playlists, listening history, analytics, room identity,
+    and preferences never leave your phone or browser.
+  </li>
+
+  <li>
+    <b>No Accounts, No Lock-in:</b> You never need to sign up, verify an email, or remember a password.
+    You can open the app and start listening instantly.
+    Your data belongs to you, not to a company database.
+  </li>
+
+  <li>
+    <b>Zero Tracking & Less Ads:</b> Gixplay does not track your behavior, does not build profiles,
+    and does not show ads. But YouTube Sometimes show ads But That's also lesser than usual. There are no hidden scripts collecting usage data in the background.
+  </li>
+
+  <li>
+    <b>Built for Speed:</b> The app is lightweight and optimized for mobile devices.
+    No heavy SDKs, no unnecessary background services, and no large startup delays.
+    It opens fast and stays responsive even on low-end phones.
+  </li>
+
+  <li>
+    <b>YouTube as the Music Source:</b> Instead of maintaining a closed music catalog,
+    Gixplay lets you play anything available on YouTube.
+    You can paste a link instantly and start listening without waiting for indexing or approval.
+  </li>
+
+  <li>
+    <b>Room System for Shared Listening:</b> Gixplay allows users to create rooms and listen together in real-time
+    using short room codes — without creating accounts or sharing personal information.
+    No other mainstream music app offers this in such a lightweight and private way.
+  </li>
+
+  <li>
+    <b>Deep Personal Analytics:</b> Most apps collect analytics for companies.
+    Gixplay creates analytics <b>for the user</b>.
+    You get detailed insights like play counts, active days, yearly heatmaps, top tracks, and artists —
+    all generated locally and visible only to you.
+  </li>
+
+  <li>
+    <b>Full Data Ownership:</b> You can export your playlists and analytics at any time,
+    move them to another device, or keep them as a personal backup.
+    There is no vendor lock-in and no risk of losing your data because a service shuts down.
+  </li>
+
+  <li>
+    <b>Designed for Personal & Small Groups:</b> Gixplay is not built for mass monetization.
+    It is built for individuals and friends who want a simple, fast, private, and controllable music experience.
+  </li>
+
+  <li>
+    <b>No Algorithm Control:</b> There is no recommendation system pushing content.
+    You decide what to listen to, when to listen, and how to organize your music.
+  </li>
+
+  <li>
+    <b>Transparent & Predictable:</b> What you see is what you get.
+    No surprise UI changes, no forced features, no hidden data collection.
+  </li>
+
+  <li>
+    <b>Completely Free to Use:</b> Glixar is Completely Free , No Charges For Any Feature. 
+    It'll be Maintained for upcoming years and It'll be Open Source Soon.
+  </li>
+</ul>
     </td>
   </tr>
 </table>
