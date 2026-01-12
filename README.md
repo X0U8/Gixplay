@@ -199,7 +199,7 @@ Help us reach the goal by starring this repository!
 
   <tr>
     <td align="center">
-      <img src="https://via.placeholder.com/300x200/0b0b0b/38B2AC?text=Preview+5" width="100%">
+      <img src="https://ik.imagekit.io/sbsjhivv8/IMG-20260112-WA0003.jpg" width="100%">
     </td>
     <td>
       <strong>How to Share Playlist</strong>
