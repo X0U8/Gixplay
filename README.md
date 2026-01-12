@@ -24,20 +24,42 @@ It allows users to search, play, and organize music sourced from YouTube while k
 
 Your playlists, listening history, analytics, and identity stay on your device.
 
+---
+
+<div align="center">
+
+### ⬇️ Installation Options
+
+</div>
+
 <div align="center">
 
 <table>
 <tr>
-<td align="center">
+<td align="center" width="50%">
 
-<b>Install Gixplay (TWA / PWA)</b><br><br>
+<b>Standard PWA Install (Fast & Simple)</b><br>
+<small>No background audio (browser limitation)</small><br><br>
+
 <img src="https://ik.imagekit.io/sbsjhivv8/Download.gif" width="260" />
 
-</td>
-<td align="center">
+<br><br>
+Open site → Install from browser menu
 
-<b>Search Using URL & Create Playlists</b><br><br>
-<img src="https://ik.imagekit.io/sbsjhivv8/VN20260111_105716-ezgif.com-video-to-gif-converter.gif" width="260" />
+</td>
+
+<td align="center" width="50%">
+
+<b>APK Install (Background Audio Supported)</b><br>
+<small>Powered by Samsung Internet</small><br><br>
+
+<a href="https://github.com/X0U8/Gixplay-/releases" target="_blank">
+  <img src="https://img.shields.io/badge/Download%20APK-GitHub%20Releases-black?style=for-the-badge&logo=github" />
+</a>
+
+<br><br>
+
+<img src="https://ik.imagekit.io/sbsjhivv8/VN20260112_115416.gif?updatedAt=1768199503182" width="260" />
 
 </td>
 </tr>
@@ -45,6 +67,21 @@ Your playlists, listening history, analytics, and identity stay on your device.
 
 </div>
 
+---
+
+<div align="center">
+
+###  Search Music & Create Playlists
+
+<img src="https://ik.imagekit.io/sbsjhivv8/VN20260111_105716-ezgif.com-video-to-gif-converter.gif" width="260" />
+
+</div>
+
+---
+
+> **Note:**  
+> Background audio playback is technically restricted in most browsers.  
+> The APK version uses Samsung Internet to enable reliable background music playback without server-side streaming or media extraction.
 
 <hr style="border: 1px solid #38B2AC;" />
 
