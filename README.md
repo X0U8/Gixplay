@@ -91,7 +91,7 @@ Open site → Install from browser menu
 
 Help us reach the goal by starring this repository!
 
-[![Star this repo](https://img.shields.io/badge/⭐_Star_This_Repo-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/X0U8/Gixplay-)
+[![Star this repo](https://img.shields.io/badge/⭐_Star_This_Repo-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/X0U8/Gixplay)
 
 **Current Progress:**
 
