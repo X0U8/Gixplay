@@ -25,8 +25,6 @@
 
 ### Installation Options
 
-
-
 <div align="center">
 
 <table>
@@ -53,7 +51,7 @@ Open site → Install from browser menu
 </a>
 
 <br><br>
-<b>Agressive Playback:</b> Audio continues during calls, and stays active even if the app is swiped away from recent tasks.
+<b>Aggressive Playback:</b> Audio continues during calls and stays active even if the apk is closed or swiped from recent tabs.
 
 </td>
 </tr>
@@ -106,6 +104,21 @@ Open site → Install from browser menu
 
   <tr>
     <td align="center">
+      <img src="https://ik.imagekit.io/sbsjhivv8/IMG-20260118-WA0000.jpg?updatedAt=1768674900411" width="100%">
+    </td>
+    <td>
+      <strong>Get Popular Songs (Trending)</strong>
+      <ul>
+  <li>Discover what the world is listening to by clicking the <b>Refresh icon</b> on the top right corner.</li>
+  <li>This feature fetches the currently most-listened music and trending tracks directly from global sources.</li>
+  <li><b>Limit:</b> Refreshing is limited to <b>once every 10 minutes</b> to ensure stability and up-to-date results.</li>
+  <li>Instantly play or add these popular hits to your local playlists with one tap.</li>
+</ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
       <img src="https://ik.imagekit.io/sbsjhivv8/IMG-20260111-WA0002.jpg" width="100%">
     </td>
     <td>
@@ -128,6 +141,21 @@ Open site → Install from browser menu
   <li>To keep the service free and prevent bot abuse, a quick math question may appear before processing a search.</li>
   <li>Once verified, you can add music directly to your local playlists.</li>
         </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://ik.imagekit.io/sbsjhivv8/IMG-20260118-WA0001.jpg?updatedAt=1768674900327" width="100%">
+    </td>
+    <td>
+      <strong>Listening History</strong>
+      <ul>
+  <li>Every song you play automatically appears on your <b>History Page</b> for quick access.</li>
+  <li>Users can directly replay music or view details of past tracks without searching again.</li>
+  <li><b>Privacy Controls:</b> In the settings, you can delete specific entries, clear your entire history, or <b>pause history tracking</b> completely.</li>
+  <li>Like all other data, your history is stored 100% locally on your device.</li>
+</ul>
     </td>
   </tr>
 
@@ -225,6 +253,8 @@ Open site → Install from browser menu
 | Category | Feature Detail |
 | :--- | :--- |
 | **Streaming** | **Multi-Source Playback**: Universal search and direct URL importing. |
+| **Discovery** | **Trending Music**: Get popular songs with a 10-minute refresh cooldown. |
+| **History** | **Local Playback History**: View past plays with full delete/pause privacy settings. |
 | **UI** | **Pure Black OLED Interface**: Minimal, distraction-free UI optimized for battery saving. |
 | **Storage** | **Local-First**: Playlists, history, and analytics stay in your device storage. |
 | **App** | **PWA & APK**: Full desktop and mobile support with offline data access. |
@@ -247,9 +277,9 @@ Open site → Install from browser menu
 
 ## Architecture Overview
 
-> **Metadata Engine** > Scrapes and fetches data from global endpoints for discovery.
+> **Metadata Engine** > Scrapes and fetches trending and search data from global endpoints.
 
-> **Local DB** > Uses IndexedDB for high-performance storage of large libraries.
+> **Local DB** > Uses IndexedDB for high-performance storage of large libraries, history, and analytics.
 
 > **Sync Engine** > Lightweight real-time socket/database layer for room coordination.
 
@@ -259,11 +289,14 @@ Open site → Install from browser menu
 
 ## Platform Support
 
-* **Android** (APK for best performance / Browser)
+* **Android** (APK for aggressive background playback / Browser)
 * **iOS** (PWA support for background play)
 * **Windows & macOS** (Full PWA support)
 
 <hr style="border: 1px solid #38B2AC;" />
+
+## Usage Notice
+Gixplay is intended for **personal and educational use**. It does not host media, does not redistribute content, and relies on publicly accessible playback mechanisms. All rights belong to their respective content owners.
 
 ## Support
 
