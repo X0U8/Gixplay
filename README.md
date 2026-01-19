@@ -43,15 +43,18 @@ Open site → Install from browser menu
 
 <td align="center" width="50%">
 
-<b>Android APK (Ultimate Background Play)</b><br>
-<small>Optimized for uninterrupted playback</small><br><br>
+<b>Android App (Play Store)</b><br>
+<small>Join testing program to install</small><br><br>
 
-<a href="https://github.com/X0U8/Gixplay-/releases" target="_blank">
-  <img src="https://img.shields.io/badge/Download%20APK-GitHub%20Releases-black?style=for-the-badge&logo=github" />
+<a href="https://tester.glixar.com" target="_blank">
+  <img src="https://ik.imagekit.io/sbsjhivv8/IMG-20260119-WA0000.jpg" width="260" />
 </a>
 
 <br><br>
-<b>Aggressive Playback:</b> Audio continues during calls and stays active even if the apk is closed or swiped from recent tabs.
+
+<a href="https://tester.glixar.com" target="_blank" style="color:#ffffff; text-decoration:underline;">
+  Become a tester now
+</a>
 
 </td>
 </tr>
