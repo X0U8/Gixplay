@@ -94,6 +94,9 @@ Open site → Install from browser menu
 
 </div>
 
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/X0U8/Gixplay.svg?variant=adaptive)](https://starchart.cc/X0U8/Gixplay)
+
 <hr style="border: 1px solid #38B2AC;" />
 
 ### Feature Guide 
