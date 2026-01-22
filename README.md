@@ -92,10 +92,12 @@ Open site → Install from browser menu
 
 ![Stars](https://img.shields.io/github/stars/X0U8/Gixplay-?style=for-the-badge&color=yellow)
 
-</div>
 
-## Stargazers over time
+
+## Stars over time
 [![Stargazers over time](https://starchart.cc/X0U8/Gixplay.svg?variant=adaptive)](https://starchart.cc/X0U8/Gixplay)
+
+</div>
 
 <hr style="border: 1px solid #38B2AC;" />
 
