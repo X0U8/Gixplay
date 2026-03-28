@@ -47,21 +47,21 @@ Open site → Install from browser menu
 <small>Join testing program to install</small><br><br>
 
 <!-- Play Store icon -->
-<a href="https://tester.glixar.com" target="_blank">
+<a href="https://testers.glixar.com" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" width="180" />
 </a>
 
 <br><br>
 
 <!-- Phone image -->
-<a href="https://tester.glixar.com" target="_blank">
+<a href="https://testers.glixar.com" target="_blank">
   <img src="https://ik.imagekit.io/sbsjhivv8/IMG-20260119-WA0000.jpg" width="260" />
 </a>
 
 <br><br>
 
 <!-- Text link -->
-<a href="https://tester.glixar.com" target="_blank" style="color:#ffffff; text-decoration:underline;">
+<a href="https://testers.glixar.com" target="_blank" style="color:#ffffff; text-decoration:underline;">
   Become a tester now
 </a>
 
