@@ -324,5 +324,5 @@ If you find this project helpful, consider supporting the development:
 
 
 <div align="center">
-  <p>© Gixplay — Personal music, shared moments, full control.</p>
+  <p>© Gixplay</p>
 </div>
