@@ -3,13 +3,10 @@
   <h1>GIXPLAY</h1>
   <p><strong>A sleek, local-first cross-platform music streaming app for Web, Desktop (PWA), and Android. Organize, sync, and listen with zero ads.</strong></p>
 
-  <p align="center">
-    <span style="background-color: #1e293b; color: #38bdf8; padding: 4px 10px; border-radius: 8px; font-size: 11px; font-weight: bold; margin: 0 4px; border: 1px solid #0284c7; display: inline-block;">BACKGROUND PLAYBACK</span>
-    <span style="background-color: #1e293b; color: #34d399; padding: 4px 10px; border-radius: 8px; font-size: 11px; font-weight: bold; margin: 0 4px; border: 1px solid #059669; display: inline-block;">OFFLINE DOWNLOAD</span>
-    <span style="background-color: #1e293b; color: #f43f5e; padding: 4px 10px; border-radius: 8px; font-size: 11px; font-weight: bold; margin: 0 4px; border: 1px solid #e11d48; display: inline-block;">AD FREE</span>
-    <span style="background-color: #1e293b; color: #a78bfa; padding: 4px 10px; border-radius: 8px; font-size: 11px; font-weight: bold; margin: 0 4px; border: 1px solid #7c3aed; display: inline-block;">LISTEN WITH FRIENDS</span>
-    <span style="background-color: #1e293b; color: #fbbf24; padding: 4px 10px; border-radius: 8px; font-size: 11px; font-weight: bold; margin: 0 4px; border: 1px solid #d97706; display: inline-block;">NO LOGIN REQUIRED</span>
-  </p>
+> 🟦 **<span style="color:white">BACKGROUND PLAYBACK</span>** &nbsp;&nbsp;&nbsp; 🟩 **<span style="color:white">OFFLINE DOWNLOAD</span>** &nbsp;&nbsp;&nbsp; 🟥 **<span style="color:white">AD FREE</span>** &nbsp;&nbsp;&nbsp; 🟪 **<span style="color:white">LISTEN WITH FRIENDS</span>** &nbsp;&nbsp;&nbsp; 🟨 **<span style="color:white">NO LOGIN REQUIRED</span>**
+
+
+
 
   <p>
     <img src="https://img.shields.io/badge/Star_This_Repo-238636?style=for-the-badge&logo=github&logoColor=white" alt="Stars" />
