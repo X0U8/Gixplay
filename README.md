@@ -1,12 +1,15 @@
 <div align="center">
-  <img src="https://ik.imagekit.io/xcd12nkc1/ic_app_icon.png" alt="Gixplay Logo" width="120" style="border-radius: 28px; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);" />
+  <img src="https://ik.imagekit.io/xcd12nkc1/cropped_circle_image.png" alt="Gixplay Logo" width="120" style="border-radius: 28px; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);" />
   <h1>GIXPLAY</h1>
   <p><strong>A sleek, local-first cross-platform music streaming app for Web, Desktop (PWA), and Android. Organize, sync, and listen with zero ads.</strong></p>
 
-> 🟦 **<span style="color:white">BACKGROUND PLAYBACK</span>** &nbsp;&nbsp;&nbsp; 🟩 **<span style="color:white">OFFLINE DOWNLOAD</span>** &nbsp;&nbsp;&nbsp; 🟥 **<span style="color:white">AD FREE</span>** &nbsp;&nbsp;&nbsp; 🟪 **<span style="color:white">LISTEN WITH FRIENDS</span>** &nbsp;&nbsp;&nbsp; 🟨 **<span style="color:white">NO LOGIN REQUIRED</span>**
-
-
-
+  <p align="center">
+    🟦 <b>BACKGROUND PLAYBACK</b> &nbsp;•&nbsp;
+    🟩 <b>OFFLINE DOWNLOAD</b> &nbsp;•&nbsp;
+    🟥 <b>AD FREE</b> &nbsp;•&nbsp;
+    🟪 <b>LISTEN WITH FRIENDS</b> &nbsp;•&nbsp;
+    🟨 <b>NO LOGIN REQUIRED</b>
+  </p>
 
   <p>
     <img src="https://img.shields.io/badge/Star_This_Repo-238636?style=for-the-badge&logo=github&logoColor=white" alt="Stars" />
@@ -17,14 +20,12 @@
     <strong>Source code will be revealed at 300 stars.</strong>
   </p>
 
-  <div align="center" style="max-width: 600px; margin: 20px 0;">
-    <img src="https://starchart.cc/X0U8/Gixplay.svg?variant=adaptive" alt="Stargazers over time" width="100%" />
-  </div>
+  
 </div>
 
 <hr style="border: 1px solid #3b82f6;" />
 
-### Platform Support
+
 
 <div align="center">
 <table>
@@ -55,6 +56,20 @@
 <div align="center">
 <table>
 
+  <!-- Dynamic Dashboard -->
+  <tr>
+    <td align="center">
+      <img src="https://ik.imagekit.io/xcd12nkc1/Screenshot%202026-07-30%20at%2010.55.23%E2%80%AFAM.png" width="100%" alt="Dynamic Dashboard">
+    </td>
+    <td>
+      <strong>Dynamic Dashboard</strong>
+      <ul>
+        <li>Time-of-day adaptive hero header and personalized greetings.</li>
+        <li>Instant access to playlists, recommendations, trending artists, addictive list, and popular tracks right on your main home feed.</li>
+      </ul>
+    </td>
+  </tr>
+
   <!-- Dynamic Themes -->
   <tr>
     <td width="35%" align="center">
@@ -65,13 +80,13 @@
       <strong>Dynamic Themes</strong>
       <ul>
         <li>Responsive light and dark modes with dedicated accent colors.</li>
-        <li>OLED dark theme with red accent color.</li>
-        <li>Adaptive light theme with green accent color.</li>
+        <li>Dark theme with any accent color.</li>
+        <li>Light theme with any accent color.</li>
       </ul>
     </td>
   </tr>
 
-  <!-- Desktop View -->
+  <!-- Responsive Desktop View -->
   <tr>
     <td align="center">
       <img src="https://ik.imagekit.io/xcd12nkc1/Screenshot%202026-07-27%20at%209.22.40%E2%80%AFPM.png" width="100%" alt="Desktop Layout">
@@ -88,18 +103,46 @@
   <!-- Search & Discovery -->
   <tr>
     <td align="center">
-      <img src="https://ik.imagekit.io/xcd12nkc1/Screenshot%202026-07-27%20at%209.20.25%E2%80%AFPM.png" width="100%" alt="Search Interface">
+      <img src="https://ik.imagekit.io/xcd12nkc1/Screenshot%202026-07-30%20at%2011.02.15%E2%80%AFAM.png" width="100%" alt="Search Interface">
     </td>
     <td>
       <strong>Search & Discovery</strong>
       <ul>
-        <li>Includes a trending songs feed, custom discovery cards, and an AI overlay button on top.</li>
-        <li>Failover search servers to ensure stable results at all times.</li>
+        <li>Includes custom category browse cards, compact track lists, instant search, and AI recommendations.</li>
+        <li>7-day persistent server-side caching and failover endpoints to ensure instant results.</li>
       </ul>
     </td>
   </tr>
 
-  <!-- Trending Songs -->
+  <!-- Live Lyrics -->
+  <tr>
+    <td align="center">
+      <img src="https://ik.imagekit.io/xcd12nkc1/Screenshot%202026-07-30%20at%2010.34.34%E2%80%AFAM.png" width="100%" alt="Synchronized Lyrics">
+    </td>
+    <td>
+      <strong>Synchronized Live Lyrics</strong>
+      <ul>
+        <li>Interactive 3D flip card player view displaying real-time synchronized timestamped lyrics.</li>
+        <li>Supports multi-language selection, manual overrides, and offline caching.</li>
+      </ul>
+    </td>
+  </tr>
+
+  <!-- Analytics -->
+  <tr>
+    <td align="center">
+      <img src="https://ik.imagekit.io/xcd12nkc1/Screenshot%202026-07-30%20at%2010.56.40%E2%80%AFAM.png" width="100%" alt="Listening Analytics">
+    </td>
+    <td>
+      <strong>Cleaner Analytics</strong>
+      <ul>
+        <li>Track listening habits, total playtime, active streaks, and top tracks.</li>
+        <li>Visualizes listening frequency with an annual GitHub-style heatmap.</li>
+      </ul>
+    </td>
+  </tr>
+
+  <!-- Trending Songs Feed -->
   <tr>
     <td align="center">
       <img src="https://ik.imagekit.io/xcd12nkc1/Screenshot%202026-07-27%20at%209.21.34%E2%80%AFPM.png" width="100%" alt="Trending Songs">
@@ -113,7 +156,7 @@
     </td>
   </tr>
 
-  <!-- Playlists -->
+  <!-- Smart Playlists -->
   <tr>
     <td align="center">
       <img src="https://ik.imagekit.io/xcd12nkc1/Screenshot%202026-07-27%20at%209.26.25%E2%80%AFPM.png" width="100%" alt="Playlists Page">
@@ -165,20 +208,6 @@
       <ul>
         <li>Listen and watch videos together with friends in real-time.</li>
         <li>Collaborative queue management and integrated room chat.</li>
-      </ul>
-    </td>
-  </tr>
-
-  <!-- Analytics -->
-  <tr>
-    <td align="center">
-      <img src="https://ik.imagekit.io/xcd12nkc1/Screenshot%202026-07-28%20at%2012.10.09%E2%80%AFAM.png" width="100%" alt="Listening Analytics">
-    </td>
-    <td>
-      <strong>Cleaner Analytics</strong>
-      <ul>
-        <li>Track listening habits, total playtime, active streaks, and top tracks.</li>
-        <li>Visualizes listening frequency with an annual GitHub-style heatmap.</li>
       </ul>
     </td>
   </tr>
@@ -238,9 +267,6 @@
 ---
 
 ### Support Gixplay
-
-* **Building this project solo for few year now, if you love this project , can i get a coffee ?** 
-
 
 Running the downloading and crawling backend servers incurs ongoing hosting costs. If you enjoy using Gixplay, please consider supporting development.
 
