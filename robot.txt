@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /README.md
+Allow: /README_V1.md
+Allow: /README_V2.md
