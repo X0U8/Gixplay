@@ -1,9 +1,10 @@
 <div align="center">
   <img src="https://ik.imagekit.io/xcd12nkc1/cropped_circle_image.png" alt="Gixplay Logo" width="120" style="border-radius: 28px; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);" />
   <h1>GIXPLAY</h1>
-  <p><strong>A sleek, local-first cross-platform music streaming app for Web, Desktop (PWA), and Android. Organize, sync, and listen with zero ads.</strong></p>
+  <p><strong>A sleek, cross-platform music streaming application available as a Web App and Native Android App (APK). Stream, organize, sync, and listen with zero ads.</strong></p>
 
   <p align="center">
+    <b>ANDROID APK & WEB</b> &nbsp;•&nbsp;
     <b>BACKGROUND PLAYBACK</b> &nbsp;•&nbsp;
     <b>OFFLINE DOWNLOAD</b> &nbsp;•&nbsp;
     <b>AD FREE</b> &nbsp;•&nbsp;
@@ -12,6 +13,7 @@
   </p>
 
   <p>
+    <img src="https://img.shields.io/badge/Android-APK_App-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android APK" />
     <img src="https://img.shields.io/badge/Star_This_Repo-238636?style=for-the-badge&logo=github&logoColor=white" alt="Stars" />
     <img src="https://img.shields.io/github/stars/X0U8/Gixplay?style=for-the-badge&color=yellow" alt="Stars Count" />
   </p>
@@ -25,19 +27,12 @@
 
 <hr style="border: 1px solid #3b82f6;" />
 
-
-
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="50%">
-      <b>PWA (Windows, macOS, iOS)</b><br>
-      <small>Background playback experience available on Android app.</small><br><br>
-      <img src="https://ik.imagekit.io/sbsjhivv8/Download.gif" width="220" alt="PWA Install" />
-    </td>
-    <td align="center" width="50%">
-      <b>Android App (Google Play)</b><br>
-      <small>Join our open Google Play testing program.</small><br><br>
+    <td align="center" width="65%">
+      <b>Official Android App (APK & Google Play)</b><br>
+      <small>Includes Background Playback, Discord RPC & Built-in Local Player.</small><br><br>
       <a href="https://testers.glixar.com" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" width="160" alt="Play Store" />
       </a><br><br>
@@ -45,13 +40,18 @@
         <img src="https://ik.imagekit.io/sbsjhivv8/IMG-20260119-WA0000.jpg" width="220" alt="Android App Preview" />
       </a>
     </td>
+    <td align="center" width="35%">
+      <b>Web App / PWA</b><br>
+      <small>Instant browser access for Desktop & iOS.</small><br><br>
+      <img src="https://ik.imagekit.io/sbsjhivv8/Download.gif" width="150" alt="PWA Install" />
+    </td>
   </tr>
 </table>
 </div>
 
 <hr style="border: 1px solid #3b82f6;" />
 
-### Android App Features
+### Official Android App (APK) Features
 
 <div align="center">
 <table>
