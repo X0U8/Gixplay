@@ -70,6 +70,20 @@
     </td>
   </tr>
 
+  <!-- Dynamic Launcher Icons -->
+  <tr>
+    <td width="40%" align="center">
+      <img src="https://ik.imagekit.io/xcd12nkc1/Screenshot_20260806_092803.jpg" width="100%" alt="App Launcher Icon Customization" />
+    </td>
+    <td>
+      <strong>Dynamic App Launcher Icons</strong>
+      <ul>
+        <li>Customize your phone's home screen app launcher icon directly inside General Settings.</li>
+        <li>Select from multiple icon color styles (Default, Dark, Blue, Pink, Orange, Green, and Red).</li>
+      </ul>
+    </td>
+  </tr>
+
   <!-- Discord RPC Configuration -->
   <tr>
     <td width="40%" align="center">
