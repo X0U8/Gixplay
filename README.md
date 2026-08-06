@@ -31,7 +31,9 @@
 <table>
   <tr>
     <td align="center" width="65%">
-      <b>Official Android App (APK & Google Play)</b><br>
+      <b>Official Android App (APK & Google Play)</b>
+      [![GitHub release (latest by date)](https://shields.io)](https://github.com)
+<br>
       <small>Includes Background Playback, Discord RPC & Built-in Local Player.</small><br><br>
       <a href="https://testers.glixar.com" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" width="160" alt="Play Store" />
