@@ -32,7 +32,7 @@
   <tr>
     <td align="center" width="65%">
       <b>Official Android App (APK & Google Play)</b>
-      [![GitHub release (latest by date)](https://shields.io)](https://github.com)
+     [📦 Click Here to Download the Latest Release](https://github.com)
 <br>
       <small>Includes Background Playback, Discord RPC & Built-in Local Player.</small><br><br>
       <a href="https://testers.glixar.com" target="_blank">
