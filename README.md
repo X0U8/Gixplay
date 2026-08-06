@@ -31,13 +31,14 @@
 <table>
   <tr>
     <td align="center" width="65%">
-      <b>Official Android App (APK & Google Play)</b>
-      
-  <b>[📦 Click Here to Download the Latest Release](https://github.com/x0u8/gixplay/releases) </b>
-<br>
+      <b>Android App (APK & Google Play)</b><br>
       <small>Includes Background Playback, Discord RPC & Built-in Local Player.</small><br><br>
+      <img src="https://img.shields.io/badge/RECOMMENDED-Direct_APK_Download-238636?style=for-the-badge&logo=github&logoColor=white" alt="Recommended GitHub Direct APK Download" /><br><br>
+      <a href="https://github.com/x0u8/gixplay/releases" target="_blank">
+        <img src="https://ik.imagekit.io/xcd12nkc1/logo-03.cc5e5332.png" width="190" alt="Get APK on GitHub (Recommended)" />
+      </a><br><br>
       <a href="https://testers.glixar.com" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" width="160" alt="Play Store" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" width="140" alt="Play Store" />
       </a><br><br>
       <a href="https://testers.glixar.com" target="_blank">
         <img src="https://ik.imagekit.io/sbsjhivv8/IMG-20260119-WA0000.jpg" width="220" alt="Android App Preview" />
@@ -54,7 +55,7 @@
 
 <hr style="border: 1px solid #3b82f6;" />
 
-### Official Android App (APK) Features
+### Android App (APK) Features
 
 <div align="center">
 <table>
