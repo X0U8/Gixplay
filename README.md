@@ -32,7 +32,8 @@
   <tr>
     <td align="center" width="65%">
       <b>Official Android App (APK & Google Play)</b>
-     [📦 Click Here to Download the Latest Release](https://github.com)
+      
+  <b>[📦 Click Here to Download the Latest Release](https://github.com/x0u8/gixplay/releases) </b>
 <br>
       <small>Includes Background Playback, Discord RPC & Built-in Local Player.</small><br><br>
       <a href="https://testers.glixar.com" target="_blank">
