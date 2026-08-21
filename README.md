@@ -1,10 +1,10 @@
 <div align="center">
   <img src="https://ik.imagekit.io/xcd12nkc1/cropped_circle_image.png" alt="Gixplay Logo" width="120" style="border-radius: 28px; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);" />
   <h1>GIXPLAY</h1>
-  <p><strong>A sleek, cross-platform music streaming application available as a Web App and Native Android App (APK). Stream, organize, sync, and listen with zero ads.</strong></p>
+  <p><strong>A sleek, cross-platform music streaming application available as a Web App and Native Android App on Google Play Store. Stream, organize, sync, and listen with zero ads.</strong></p>
 
   <p align="center">
-    <b>ANDROID APK & WEB</b> &nbsp;•&nbsp;
+    <b>LIVE ON GOOGLE PLAY</b> &nbsp;•&nbsp;
     <b>BACKGROUND PLAYBACK</b> &nbsp;•&nbsp;
     <b>OFFLINE DOWNLOAD</b> &nbsp;•&nbsp;
     <b>AD FREE</b> &nbsp;•&nbsp;
@@ -13,7 +13,9 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/Android-APK_App-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android APK" />
+    <a href="https://play.google.com/store/apps/details?id=com.gixplay.player" target="_blank">
+      <img src="https://img.shields.io/badge/Google_Play-Get_It_On_Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play Store" />
+    </a>
     <img src="https://img.shields.io/badge/Star_This_Repo-238636?style=for-the-badge&logo=github&logoColor=white" alt="Stars" />
     <img src="https://img.shields.io/github/stars/X0U8/Gixplay?style=for-the-badge&color=yellow" alt="Stars Count" />
   </p>
@@ -22,7 +24,6 @@
     <strong>Source code will be revealed at 300 stars.</strong>
   </p>
 
-  
 </div>
 
 <hr style="border: 1px solid #3b82f6;" />
@@ -31,17 +32,13 @@
 <table>
   <tr>
     <td align="center" width="65%">
-      <b>Android App (APK & Google Play)</b><br>
+      <b>Android App (Google Play Store)</b><br>
       <small>Includes Background Playback, Discord RPC & Built-in Local Player.</small><br><br>
-      <img src="https://img.shields.io/badge/RECOMMENDED-Direct_APK_Download-238636?style=for-the-badge&logo=github&logoColor=white" alt="Recommended GitHub Direct APK Download" /><br><br>
-      <a href="https://github.com/x0u8/gixplay/releases" target="_blank">
-        <img src="https://ik.imagekit.io/xcd12nkc1/logo-03.cc5e5332.png" width="190" alt="Get APK on GitHub (Recommended)" />
+      <a href="https://play.google.com/store/apps/details?id=com.gixplay.player" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" width="180" alt="Get it on Google Play" />
       </a><br><br>
-      <a href="https://testers.glixar.com" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" width="140" alt="Play Store" />
-      </a><br><br>
-      <a href="https://testers.glixar.com" target="_blank">
-        <img src="https://ik.imagekit.io/sbsjhivv8/IMG-20260119-WA0000.jpg" width="220" alt="Android App Preview" />
+      <a href="https://play.google.com/store/apps/details?id=com.gixplay.player" target="_blank">
+        <img src="https://ik.imagekit.io/xcd12nkc1/Screenshot_20260821_140602.jpg" width="220" alt="Android App Preview" />
       </a>
     </td>
     <td align="center" width="35%">
@@ -55,7 +52,20 @@
 
 <hr style="border: 1px solid #3b82f6;" />
 
-### Android App (APK) Features
+## Official Google Play Store Release
+
+Gixplay is officially available on the Google Play Store. Stream any type of audio, including songs, podcasts, speeches, and custom playlists directly on your Android device.
+
+<div align="center">
+  <br>
+  <a href="https://play.google.com/store/apps/details?id=com.gixplay.player" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" width="220" alt="Get Gixplay on Google Play Store" />
+  </a>
+</div>
+
+<hr style="border: 1px solid #3b82f6;" />
+
+### Android App Features
 
 <div align="center">
 <table>
@@ -206,8 +216,8 @@
     <td>
       <strong>Search & Discovery</strong>
       <ul>
-        <li>Includes custom category browse cards, compact track lists, instant search, and AI recommendations.</li>
-        <li>7-day persistent server-side caching and failover endpoints to ensure instant results.</li>
+        <li>Includes custom category browse cards, compact track lists, instant search, and Smart Search radio expansion.</li>
+        <li>Persistent server-side caching, rate limiting, and failover endpoints to ensure instant results.</li>
       </ul>
     </td>
   </tr>
@@ -364,7 +374,7 @@
 
 ---
 
-### Built-in Offline Local Music Player (Android App Feature)
+### Built-in Offline Local Music Player
 
 <div align="center">
 <table>
