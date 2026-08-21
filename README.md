@@ -4,7 +4,7 @@
   <p><strong>A sleek, cross-platform music streaming application available as a Web App and Native Android App on Google Play Store. Stream, organize, sync, and listen with zero ads.</strong></p>
 
   <p align="center">
-    <b>LIVE ON GOOGLE PLAY</b> &nbsp;•&nbsp;
+    <b>AVAILABLE ON GOOGLE PLAY</b> &nbsp;•&nbsp;
     <b>BACKGROUND PLAYBACK</b> &nbsp;•&nbsp;
     <b>OFFLINE DOWNLOAD</b> &nbsp;•&nbsp;
     <b>AD FREE</b> &nbsp;•&nbsp;
